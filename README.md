@@ -31,7 +31,7 @@ DNSAQ is a high-performance, bandwidth-efficient DNS resolution and subdomain en
 
 ```bash
 # Install directly with Go
-go install github.com/yourusername/dnsaq@latest
+go install github.com/cristophercervantes/dnsaq@latest
 
 # Ensure the Go bin directory is in your PATH
 export PATH="$PATH:$(go env GOPATH)/bin"
@@ -41,7 +41,7 @@ export PATH="$PATH:$(go env GOPATH)/bin"
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/dnsaq.git
+git clone https://github.com/cristophercervantes/dnsaq.git
 cd dnsaq
 
 # Build and install
